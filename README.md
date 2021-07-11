@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Arina 👋
 
+
+<a href="www.linkedin.com/in/arina-novikova-808163131" target="blank"><img align="center" src="https://user-images.githubusercontent.com/46926736/125190171-6714c500-e244-11eb-9654-64530bab7624.png" alt="arina" height="100" width="160" /></a>
+
+
+
+![Arina's github stats](https://github-readme-stats.vercel.app/api?username=argato&show_icons=true&theme=radical)
 <!--
 **argato/argato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
